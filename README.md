@@ -1,4 +1,5 @@
 [![](https://quay.io/repository/biocontainers/biobb_io/status)](https://hub.docker.com/r/mmbirb/zip)
+[![](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/4075)
 [![](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # ZIP container
@@ -24,13 +25,13 @@ ZIP docker and singularity containers used for [biobb_template](https://github.c
 * Installation:
 
 
-        singularity pull shub://bioexcel/acpype_container
+        singularity pull shub://bioexcel/zip_container
 
 
 * Usage:
 
 
-        singularity exec bioexcel-acpype_container-master-latest.simg <command>
+        singularity exec bioexcel-zip_container-master-latest.simg <command>
 
 
 ### Copyright & Licensing
