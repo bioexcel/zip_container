@@ -25,13 +25,13 @@ ZIP docker and singularity containers used for [biobb_template](https://github.c
 * Installation:
 
 
-        singularity pull shub://bioexcel/zip_container
+        singularity pull --name zip.sif shub://bioexcel/zip_container
 
 
 * Usage:
 
 
-        singularity exec bioexcel-zip_container-master-latest.simg <command>
+        singularity exec zip.sif <command>
 
 
 ### Copyright & Licensing
